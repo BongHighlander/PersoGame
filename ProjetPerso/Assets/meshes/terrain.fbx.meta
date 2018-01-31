@@ -1,0 +1,164 @@
+fileFormatVersion: 2
+guid: 7538d8fd43544c442a27033e7982d164
+timeCreated: 1510964777
+licenseType: Free
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: Carrefour
+    100002: CroisementTBas
+    100004: CroisementTDroite
+    100006: CroisementTGauche
+    100008: CroisementTHaut
+    100010: ParkingBas
+    100012: ParkingBasHaut
+    100014: ParkingDroite
+    100016: ParkingGauche
+    100018: ParkingHaut
+    100020: Plain
+    100022: RouteGaucheDroite
+    100024: //RootNode
+    100026: VirageBasDroite
+    100028: VirageBasGauche
+    100030: VirageHautDroite
+    100032: VirageHautGauche
+    400000: Carrefour
+    400002: CroisementTBas
+    400004: CroisementTDroite
+    400006: CroisementTGauche
+    400008: CroisementTHaut
+    400010: ParkingBas
+    400012: ParkingBasHaut
+    400014: ParkingDroite
+    400016: ParkingGauche
+    400018: ParkingHaut
+    400020: Plain
+    400022: RouteGaucheDroite
+    400024: //RootNode
+    400026: VirageBasDroite
+    400028: VirageBasGauche
+    400030: VirageHautDroite
+    400032: VirageHautGauche
+    2300000: Carrefour
+    2300002: CroisementTBas
+    2300004: CroisementTDroite
+    2300006: CroisementTGauche
+    2300008: CroisementTHaut
+    2300010: ParkingBas
+    2300012: ParkingBasHaut
+    2300014: ParkingDroite
+    2300016: ParkingGauche
+    2300018: ParkingHaut
+    2300020: Plain
+    2300022: RouteGaucheDroite
+    2300024: VirageBasDroite
+    2300026: VirageBasGauche
+    2300028: VirageHautDroite
+    2300030: VirageHautGauche
+    3300000: Carrefour
+    3300002: CroisementTBas
+    3300004: CroisementTDroite
+    3300006: CroisementTGauche
+    3300008: CroisementTHaut
+    3300010: ParkingBas
+    3300012: ParkingBasHaut
+    3300014: ParkingDroite
+    3300016: ParkingGauche
+    3300018: ParkingHaut
+    3300020: Plain
+    3300022: RouteGaucheDroite
+    3300024: VirageBasDroite
+    3300026: VirageBasGauche
+    3300028: VirageHautDroite
+    3300030: VirageHautGauche
+    4300000: ParkingDroite
+    4300002: RouteGaucheDroite
+    4300004: ParkingGauche
+    4300006: Plain
+    4300008: VirageHautDroite
+    4300010: CroisementTBas
+    4300012: VirageHautGauche
+    4300014: ParkingHaut
+    4300016: CroisementTGauche
+    4300018: Carrefour
+    4300020: CroisementTDroite
+    4300022: ParkingBasHaut
+    4300024: VirageBasDroite
+    4300026: CroisementTHaut
+    4300028: VirageBasGauche
+    4300030: ParkingBas
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

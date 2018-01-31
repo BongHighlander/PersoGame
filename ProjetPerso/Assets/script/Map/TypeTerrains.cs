@@ -1,0 +1,1 @@
+﻿public enum TypeTerrains { ROUTE, PLAINE, BATIMENT };
